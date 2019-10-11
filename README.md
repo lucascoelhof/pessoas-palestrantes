@@ -33,5 +33,5 @@ Edite o `README.md`  adicionando o  nome, cidade, áreas de interesses e não es
 | Diego Borges | BH | TDD e Testes, Frameworks, PHP, React, JS, TypeScript, NodeJS | [linkedin](https://www.linkedin.com/in/eudiegoborgs/), [github](https://github.com/eudiegoborgs/), [twitter](https://twitter.com/eudiegoborgs_)
 | Wladimir Neto | Uberlândia - MG | Chatbots, NLP | [linkedin](https://www.linkedin.com/in/wladimirteixeiraneto/), [github](https://github.com/wladneto)
 | Gabriel Sobrinho | BH | Front-end, Javascript, React, Vue, React Native, Back-end, Ruby, Rails, Database, Postgres, Redis | [linkedin](https://www.linkedin.com/in/gabrielsobrinho/), [github](https://github.com/sobrinho), [instagram](https://www.instagram.com/gcsobrinho/), [twitter](https://twitter.com/sobrinho)
-
+| Lucas Coelho | BH | Robótica, Veículos Autônomos, Automação, ROS, C++, Python | [linkedin](https://www.linkedin.com/in/lucascoelhof/), [github](https://github.com/lucascoelhof), [instagram](https://www.instagram.com/lucascoelhof/)
 
